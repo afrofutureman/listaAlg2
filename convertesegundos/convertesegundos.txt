@@ -1,0 +1,2 @@
+1- Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do
+usuário e calcule o total em segundos.
